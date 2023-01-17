@@ -1,0 +1,10 @@
+.idea
+build
+cmake-build-*
+runtest
+out
+venv/
+!CMakeLists.txt
+!doc/*
+*.csv
+work/
