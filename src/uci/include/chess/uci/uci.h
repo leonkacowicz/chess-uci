@@ -2,9 +2,8 @@
 // Created by leon on 2020-01-31.
 //
 
-#ifndef CHESSENGINE_CHESSUCI_H
-#define CHESSENGINE_CHESSUCI_H
-
+#ifndef CHESSTOOLS_CHESSUCI_UCI_H
+#define CHESSTOOLS_CHESSUCI_UCI_H
 
 #include <chrono>
 #include <utility>
@@ -74,4 +73,4 @@ cmd_info parse_cmd_info(const std::string& cmdline);
 
 }
 
-#endif //CHESSENGINE_UCI_H
+#endif //CHESSTOOLS_CHESSUCI_UCI_H

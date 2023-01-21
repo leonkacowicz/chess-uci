@@ -2,8 +2,8 @@
 // Created by leon on 2020-01-31.
 //
 
-#ifndef CHESSENGINE_ENGINE_WRAPPER_H
-#define CHESSENGINE_ENGINE_WRAPPER_H
+#ifndef CHESSTOOLS_CHESSUCI_ENGINE_WRAPPER_H
+#define CHESSTOOLS_CHESSUCI_ENGINE_WRAPPER_H
 
 #include <string>
 #include <istream>
@@ -31,4 +31,4 @@ public:
 };
 
 }
-#endif //CHESSENGINE_ENGINE_WRAPPER_H
+#endif //CHESSTOOLS_CHESSUCI_ENGINE_WRAPPER_H
